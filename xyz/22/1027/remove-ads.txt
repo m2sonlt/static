@@ -1,0 +1,1 @@
+{block:ShowAdsOnThisPage} show-ads{/block:ShowAdsOnThisPage}

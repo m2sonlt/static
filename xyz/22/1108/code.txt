@@ -1,0 +1,4 @@
+/* Gỡ bỏ mục "Xem thêm các bài viết tương tự trên Tumblr": https://sonlt.link/09Sz */
+.tagged-page-cta {
+  display: none;
+}
